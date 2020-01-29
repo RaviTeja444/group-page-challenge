@@ -1,7 +1,7 @@
 # group-page-challenge
 # This is a Group page challenge
 
-## group members
+## Group members
 
 1. swaroop reddy gottigundala
 2. Shiva Rama Krishna Vodnala
@@ -9,3 +9,4 @@
 
 ## Github Links
 - [Ravi Teja Pagidoju](https://github.com/RaviTeja444)
+- [Shiva Rama Krishna Vodnala](https://github.com/srkvodnala)
