@@ -1,5 +1,5 @@
 # group-page-challenge
-# This is a Group page challenge
+# This is a group page challenge
 
 ## Group members
 
